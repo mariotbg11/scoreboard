@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background: #064E3B;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    margin: 50px;
+}
+
+h3{
+    font-size: 60px;
+    margin-bottom: -15px; 
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin: 80px;
+}
+
+button {
+    background: none;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 4px;
+    margin: 5px; 
+}
+
+.score {
+    background: #0a0001;
+    font-size: 150px;
+    color: yellow;
+    width: 200px;
+    margin: 20px;
+    border-radius: 4px; 
+}
